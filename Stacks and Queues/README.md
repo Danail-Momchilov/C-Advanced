@@ -1,4 +1,9 @@
-> Hot Potato
+> Hot Potato Problem:
 
-![image](https://user-images.githubusercontent.com/46314846/178481959-e6ea3665-cfe9-4884-92bc-c76d5a06492b.png)
+Children form a circle and pass a hot potato clockwise
+Every nth toss a child is removed until only one remains
+Upon removal the potato is passed along
+Print the child that remains last
+
+
 
