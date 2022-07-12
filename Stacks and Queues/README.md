@@ -1,3 +1,16 @@
+> Reverse a String Problem
+
+- Create a program that:
+- Reads an input string
+- Reverses its letters backwards using a stack
+
+> Stack Sum Problem
+
+- You are given a list of numbers. Push them into a stack and execute a sequence of commands:
+- Add <n1> <n2>: adds given two numbers to the stack
+- Remove <count>: if elements are enough, removes count elements
+- End: print the sum in the remaining elements from the stack and exit
+
 > Matching Brackets Problem
 
 - We are given an arithmetic expression with brackets(nesting is allowed)
