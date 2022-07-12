@@ -1,3 +1,10 @@
+> Matching Brackets Problem
+We are given an arithmetic expression with brackets(nesting is allowed)
+Extract all sub-expressions in brackets
+![image](https://user-images.githubusercontent.com/46314846/178498743-ccb0822e-7e0b-4ca7-b648-efc242938c43.png)
+
+
+
 > Hot Potato Problem:
 
 - Children form a circle and pass a hot potato clockwise
