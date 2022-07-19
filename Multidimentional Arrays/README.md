@@ -14,7 +14,7 @@
 
 > JaggedArrayModification
 
-- On the first line you will get the number rows
+- On the first line you will get the number of rows
 - On the next lines you will get the elements for each row
 - Until you receive "END", read commands
 - Add {row} {col} {value}
